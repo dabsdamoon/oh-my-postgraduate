@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <entry>
+    <id>http://arxiv.org/abs/2401.11111v2</id>
+    <title>Efficient  Attention
+ Variants</title>
+    <summary>We study efficient attention.
+    Multi-line abstract.</summary>
+    <published>2026-07-10T00:00:00Z</published>
+    <author><name>Ada Lovelace</name></author>
+    <author><name>Alan Turing</name></author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2401.22222v1</id>
+    <title>Known Paper</title>
+    <summary>Already indexed.</summary>
+    <published>2026-07-09T00:00:00Z</published>
+    <author><name>Grace Hopper</name></author>
+  </entry>
+</feed>
