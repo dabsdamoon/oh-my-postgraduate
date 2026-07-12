@@ -3,3 +3,5 @@ __pycache__/
 .venv/
 .DS_Store
 papers/*/paper.pdf
+
+bench/tiny-lm/data/
